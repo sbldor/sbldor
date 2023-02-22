@@ -13,6 +13,10 @@
 <br/>  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbldor&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbldor&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbldor&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbldor&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbldor&theme=nord_bright&utcOffset=8)
 
 
 ## My Skill Set  
