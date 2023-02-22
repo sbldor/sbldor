@@ -12,6 +12,8 @@
 
 <br/>  
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbldor&theme=nord_bright)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
