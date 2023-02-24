@@ -13,13 +13,7 @@
 <br/>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbldor&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbldor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbldor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbldor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbldor&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbldor&theme=nord_bright&utcOffset=8)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
