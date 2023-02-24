@@ -12,7 +12,8 @@
 
 <br/>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbldor&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbldor&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbldor&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbldor&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
