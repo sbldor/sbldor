@@ -18,12 +18,12 @@
 ### Frontend  
 
 <div>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 25px"  src="./icon/js.svg" alt="JavaScript" height="30" />
-  </a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 25px" src="./icon/html.svg" alt="HTML5" height="30" />
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 25px" src="./icon/css.svg" alt="CSS3" height="30" />
-  </a>   
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 25px"  src="./icon/js.svg" alt="JavaScript" height="30" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 25px" src="./icon/ts.svg" alt="TypeScript" height="30" />
   </a>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 25px" src="./icon/react.svg" alt="React" height="30" />
