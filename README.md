@@ -63,7 +63,7 @@
 <br/>
 
 
-### tools 
+### Tools 
 <div>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="./icon/git.svg" alt="Git" height="30" />
 </a>
