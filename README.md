@@ -4,7 +4,7 @@
   
 💥 Учусь на своих и чужих ошибках  
   
-💪 Люблю писать код, а в перерывах заниматься спортом  
+💪 Люблю писать код, а в перерывах качать руки в зале  
   
 </br>
 
@@ -81,9 +81,9 @@
 ### <div align="center">Меня можно найти</div>
 
 <div align="center">
-<a href="https://t.me/sbldor" target="_blank"><img style="margin: 10px" src="./icon/tg.svg" alt="postman" height="30" />
+<a href="https://t.me/sbldor" target="_blank"><img style="margin: 10px" src="./icon/tg.svg" alt="Telegram" height="30" />
 </a>
-<a href="mailto:sydor.a@yandex.ru" target="_blank"><img style="margin: 10px" src="./icon/mail.svg" alt="postman" height="32" />
+<a href="mailto:sydor.a@yandex.ru" target="_blank"><img style="margin: 10px" src="./icon/mail.svg" alt="Ya.ru" height="32" />
 </a>
 </div>
 
