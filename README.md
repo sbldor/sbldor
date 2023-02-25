@@ -78,7 +78,7 @@
 
 <br/>  
 
-### Меня можно найти
+### <div align="center">Меня можно найти</div>
 
 <div align="center">
 <a href="https://t.me/sbldor" target="_blank"><img style="margin: 10px" src="./icon/tg.svg" alt="postman" height="30" />
