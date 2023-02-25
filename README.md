@@ -15,30 +15,28 @@
 
 ## Мой стек 
 
-<br/>
-
 ### Frontend  
 
 <div>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px"  src="./icon/js.svg" alt="JavaScript" height="30" />
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 25px"  src="./icon/js.svg" alt="JavaScript" height="30" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./icon/html.svg" alt="HTML5" height="30" />
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 25px" src="./icon/html.svg" alt="HTML5" height="30" />
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./icon/css.svg" alt="CSS3" height="30" />
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 25px" src="./icon/css.svg" alt="CSS3" height="30" />
   </a>   
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./icon/ts.svg" alt="TypeScript" height="30" />
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 25px" src="./icon/ts.svg" alt="TypeScript" height="30" />
   </a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./icon/react.svg" alt="React" height="30" />
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 25px" src="./icon/react.svg" alt="React" height="30" />
   </a>
-  <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="./icon/redux.svg" alt="Redux" height="30" />
+  <a href="https://redux.js.org/" target="_blank"><img style="margin: 25px" src="./icon/redux.svg" alt="Redux" height="30" />
   </a>
-  <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="./icon/wp.svg" alt="Webpack" height="30" />
+  <a href="https://webpack.js.org/" target="_blank"><img style="margin: 25px" src="./icon/wp.svg" alt="Webpack" height="30" />
   </a>
-  <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="30" />
+  <a href="http://getbem.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="30" />
   </a>  
-  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="./icon/sass.svg" alt="Sass" height="30" />
+  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 25px" src="./icon/sass.svg" alt="Sass" height="30" />
   </a>
-  <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="./icon/jest.svg" alt="Jest" height="30" />
+  <a href="https://jestjs.io/" target="_blank"><img style="margin: 25px" src="./icon/jest.svg" alt="Jest" height="30" />
   </a>
 </div>
 
@@ -46,19 +44,19 @@
 
 ### Backend   
 <div>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"  src="./icon/ex.svg" alt="Express" height="30" />
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 25px"  src="./icon/ex.svg" alt="Express" height="30" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px"  src="./icon/node.svg" alt="Node" height="30" />
+  <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 25px"  src="./icon/node.svg" alt="Node" height="30" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"  src="./icon/mongo.svg" alt="Mongo" height="30" />
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 25px"  src="./icon/mongo.svg" alt="Mongo" height="30" />
   </a>
-  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px"  src="./icon/nestjs.svg" alt="Node" height="30" />
+  <a href="https://nestjs.com/" target="_blank"><img style="margin: 25px"  src="./icon/nestjs.svg" alt="Node" height="30" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px"  src="./icon/postgres.svg" alt="Postgres" height="30" />
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 25px"  src="./icon/postgres.svg" alt="Postgres" height="30" />
   </a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"  src="./icon/docker.svg" alt="Docker" height="30" />
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 25px"  src="./icon/docker.svg" alt="Docker" height="30" />
   </a>
-  <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px"  src="./icon/ubuntu.svg" alt="Ubuntu" height="30" />
+  <a href="https://ubuntu.com/" target="_blank"><img style="margin: 25px"  src="./icon/ubuntu.svg" alt="Ubuntu" height="30" />
   </a>
 </div>
 
